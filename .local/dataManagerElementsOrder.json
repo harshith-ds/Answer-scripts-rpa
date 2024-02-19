@@ -12,6 +12,8 @@
       "Path": "Main.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
+        "internalname&Sequence_1",
+        "subjectname&Sequence_1",
         "FolderPath&Sequence_1",
         "FP&Sequence_1",
         "EmailsDT&Sequence_1",
